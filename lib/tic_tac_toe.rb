@@ -1,6 +1,7 @@
-require "tic_tac_toe/version"
+require 'tic_tac_toe/version'
 
 module TicTacToe
-  class Error < StandardError; end
+  class Error < StandardError
+  end
   # Your code goes here...
 end
