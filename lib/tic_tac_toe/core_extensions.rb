@@ -6,4 +6,8 @@ class Array
   def all_same?
     all? { |element| element == self[0] }
   end
+
+  def any_empty?
+    any? { |element| element.to_s.empty? }
+  end
 end
