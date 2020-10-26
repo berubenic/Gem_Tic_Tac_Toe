@@ -10,4 +10,8 @@ class Array
   def any_empty?
     any? { |element| element.to_s.empty? }
   end
+
+  def none_empty?
+    !any_empty?
+  end
 end
