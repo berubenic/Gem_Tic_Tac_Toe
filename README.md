@@ -2,6 +2,8 @@
 
 Simple game of Tic Tac Toe played in the console with a ruby gem.
 
+- I did not create this, followed along with [https://codequizzes.wordpress.com/2013/10/25/creating-a-tic-tac-toe-game-with-ruby/]
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -31,4 +33,3 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/tic_tac_toe.
-
