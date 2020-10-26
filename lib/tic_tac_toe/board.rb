@@ -20,6 +20,12 @@ module TicTacToe
       false
     end
 
+    def foramtted_grid
+      grid.each do |row|
+        puts row.map { |cell| cell.value.empty? ? '_' : cell.value }.join(' ')
+      end
+    end
+
     private
 
     def default_grid
