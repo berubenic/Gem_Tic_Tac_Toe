@@ -2,7 +2,7 @@
 
 Simple game of Tic Tac Toe played in the console with a ruby gem.
 
-- I did not create this, followed along with [https://codequizzes.wordpress.com/2013/10/25/creating-a-tic-tac-toe-game-with-ruby/]
+- I did not create this, followed along with https://codequizzes.wordpress.com/2013/10/25/creating-a-tic-tac-toe-game-with-ruby/
 
 ## Installation
 
